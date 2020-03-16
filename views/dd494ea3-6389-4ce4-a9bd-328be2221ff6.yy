@@ -5,7 +5,7 @@
     "name": "dd494ea3-6389-4ce4-a9bd-328be2221ff6",
     "children": [
         "dc28c5cc-a52d-4884-b585-24d1945be50e",
-        "b7549357-eccf-4c77-aab6-7a1134757e57"
+        "177b57e7-539e-49d3-8ced-86657062384d"
     ],
     "filterType": "GMSprite",
     "folderName": "Idle",
