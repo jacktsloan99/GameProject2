@@ -5,3 +5,5 @@
 @Version 3.18.2020
 */
 gravity_direction = 270;
+globalvar characterDirection;
+characterDirection = true;
