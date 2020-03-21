@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "24a741f0-03f7-4f2f-8e94-1d064f795552",
+            "Value": {
+                "id": "ee6bb134-fa27-4fea-8f62-f792f8496d4f",
+                "resourcePath": "scripts\\column_corners\\column_corners.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "25c5ad41-ee78-4cad-a9bc-532ecde288cc",
             "Value": {
                 "id": "9c6f22a0-767f-4db8-a380-3180aaf87190",
@@ -108,6 +116,14 @@
                 "id": "43f745ed-d75e-485a-8b2a-02ae1a079c2b",
                 "resourcePath": "objects\\obj_BlueBox\\obj_BlueBox.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "29c0ce34-38b1-402f-a73e-ee84eedf2303",
+            "Value": {
+                "id": "c62a227b-c258-44d9-88af-d7271da853ce",
+                "resourcePath": "sprites\\spr_water\\spr_water.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -252,6 +268,14 @@
                 "id": "97c57960-5792-4aa9-8b40-6e419f535aef",
                 "resourcePath": "views\\a952b7d1-f74b-4111-9b7a-a9b372e10117.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "acf23d65-a264-486c-8baa-8bcb5e0a97e5",
+            "Value": {
+                "id": "11763d33-4a83-491c-8071-4db37904b254",
+                "resourcePath": "objects\\obj_water\\obj_water.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -472,7 +496,7 @@
         }
     ],
     "script_order": [
-        
+        "24a741f0-03f7-4f2f-8e94-1d064f795552"
     ],
     "tutorial": ""
 }

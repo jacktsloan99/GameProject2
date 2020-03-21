@@ -23,7 +23,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": false,
+    "solid": true,
     "spriteId": "8d938c11-3cbb-43d4-8a3b-2a6a5422b393",
     "visible": true
 }
