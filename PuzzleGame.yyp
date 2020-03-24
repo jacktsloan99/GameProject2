@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "1e6b59c1-96fc-48d8-9cfa-acf5c18c3e79",
+            "Value": {
+                "id": "34dd4eae-3a9e-4d1d-998b-3be8fd7ace15",
+                "resourcePath": "objects\\obj_TrapDoor\\obj_TrapDoor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1fe26aa0-8e53-453f-82e8-417a85d07ad4",
             "Value": {
                 "id": "bba4bc66-0125-4299-a22d-6d2cffc884d6",
@@ -127,6 +135,22 @@
             }
         },
         {
+            "Key": "2d818d23-2a77-4c72-8788-9264925fab0b",
+            "Value": {
+                "id": "a7e2b6ba-3944-4af4-8961-c863eb2a0827",
+                "resourcePath": "sprites\\spr_TrapDoor\\spr_TrapDoor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3364d419-8f40-4c82-a749-c738c384ea0b",
+            "Value": {
+                "id": "09b796ff-74b4-4879-b97e-6463e056d73f",
+                "resourcePath": "rooms\\roomLevel1\\roomLevel1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "36d1bb0c-a3fa-48e1-a1da-bedfe1399559",
             "Value": {
                 "id": "71b39467-f414-4fbd-b1ec-6f19208689ca",
@@ -148,6 +172,14 @@
                 "id": "65e2b0ac-55f3-4b20-ad9e-c802cb1ced29",
                 "resourcePath": "sprites\\spr_flyerTest\\spr_flyerTest.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "42c9f0ab-8897-47f6-8342-2f191c51984a",
+            "Value": {
+                "id": "7cde6e80-377f-4bb7-82ca-edfca9fc8e4d",
+                "resourcePath": "objects\\obj_LevelEnd\\obj_LevelEnd.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -452,6 +484,14 @@
                 "id": "8285b7e6-03ed-4b5b-ad48-30948bed3f40",
                 "resourcePath": "objects\\obj_Wall\\obj_Wall.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ef323124-a334-4d1e-bb20-fda88307dba4",
+            "Value": {
+                "id": "49e6fa2b-3bf5-4f95-a363-3ddb0493f292",
+                "resourcePath": "sprites\\spr_LevelEnd\\spr_LevelEnd.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
