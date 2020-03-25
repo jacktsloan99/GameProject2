@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "298609eb-b9ec-47eb-9c77-9a3eccae253e",
+            "Value": {
+                "id": "545d852b-ae30-4b90-8d17-f23c29c886ad",
+                "resourcePath": "sprites\\spr_RedDoor\\spr_RedDoor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "29c0ce34-38b1-402f-a73e-ee84eedf2303",
             "Value": {
                 "id": "c62a227b-c258-44d9-88af-d7271da853ce",
@@ -287,11 +295,27 @@
             }
         },
         {
+            "Key": "97980209-dde5-41e9-806d-046178525be5",
+            "Value": {
+                "id": "0e426ec9-aa6e-48c6-bcb7-c83d2be22698",
+                "resourcePath": "objects\\obj_StartPoint\\obj_StartPoint.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9e7fc653-bd5d-4ad7-9224-0c97c47fd5d7",
             "Value": {
                 "id": "b218c436-850a-4e06-90db-86042dc60cb6",
                 "resourcePath": "sprites\\spr_playerMoveR\\spr_playerMoveR.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a0d23f89-5785-4173-bd3c-2edf85ad76c0",
+            "Value": {
+                "id": "ba233d00-2842-4f8e-8114-ece72a046d27",
+                "resourcePath": "objects\\obj_RedDoor\\obj_RedDoor.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -455,6 +479,14 @@
             }
         },
         {
+            "Key": "d95c5064-bce7-4fde-8812-19ec6d9f28c1",
+            "Value": {
+                "id": "29486dbb-ce00-4b68-9fa4-855e520890e8",
+                "resourcePath": "sprites\\spr_BlueDoor\\spr_BlueDoor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dc28c5cc-a52d-4884-b585-24d1945be50e",
             "Value": {
                 "id": "7411de68-da44-4975-8680-985b1a277732",
@@ -479,11 +511,35 @@
             }
         },
         {
+            "Key": "e23a44e7-cf67-4b1b-ad34-43c2fd11be96",
+            "Value": {
+                "id": "651b6816-3cf8-4c6a-9baf-13dcd229a8ec",
+                "resourcePath": "objects\\obj_BlueDoor\\obj_BlueDoor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e2d86fed-8a47-42a5-b2a4-531aeeae4119",
+            "Value": {
+                "id": "0993eb5a-de4e-451c-94e7-9109b31b1cd7",
+                "resourcePath": "sprites\\spr_Death\\spr_Death.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e63d8b71-9020-48a2-91d7-6df69f21f5c1",
             "Value": {
                 "id": "8285b7e6-03ed-4b5b-ad48-30948bed3f40",
                 "resourcePath": "objects\\obj_Wall\\obj_Wall.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "eb564b4f-3c61-4e87-94dd-2113a12ff411",
+            "Value": {
+                "id": "569873d3-6c63-4ccc-98cd-b8db23b5c42c",
+                "resourcePath": "sprites\\spr_StartPoint\\spr_StartPoint.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -547,6 +603,14 @@
             "Value": {
                 "id": "80790fe6-58e3-42f4-93c6-ab3fabb24b57",
                 "resourcePath": "objects\\obj_enemyShooter\\obj_enemyShooter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fdaeb5e1-caf7-4e9a-acc7-fb900d015913",
+            "Value": {
+                "id": "9c494498-4b5d-4eb9-85e0-9ca00e0f7a90",
+                "resourcePath": "objects\\obj_Death\\obj_Death.yy",
                 "resourceType": "GMObject"
             }
         }
