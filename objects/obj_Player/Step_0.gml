@@ -13,16 +13,32 @@ gravity = .5;
 
 //Keeps player from falling through the floor
 
-
-// idle sprite
+// idle animations - running animations are taken care of by the Key Down Events
 if keyboard_check(vk_nokey)
 {
 	if (characterDirection == true){
-		sprite_index = spr_playerIdleLeft;
-		image_speed = 1.5;
-	}
-	else{
 		sprite_index = spr_playerIdleRight;
 		image_speed = 1.5;
 	}
+	else{
+		sprite_index = spr_playerIdleLeft;
+		image_speed = 1.5;
+	}
+}
+
+// Following the Mouse Code
+point_direction(mouse_x,mouse_y,obj_Player.x,obj_Player.y);
+
+// Throwable object code 
+var leftMouseClickCheck;
+leftMouseClickCheck = mouse_check_button(mb_left);
+if (leftMouseClickCheck)
+{
+	if(characterThrowableCooldown <= 0)
+	{
+		instance_create_layer(x, y, "Layer_Bullet", obj_rumThrowable);
+		// sets how long inbetween each rum is thrown
+		characterThrowableCooldown = 8;
+	}
+	characterThrowableCooldown += -1;
 }

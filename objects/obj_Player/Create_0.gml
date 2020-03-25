@@ -7,3 +7,7 @@
 gravity_direction = 270;
 globalvar characterDirection;
 characterDirection = true;
+// setting the variable for the bullet firing rate in step
+globalvar characterThrowableCooldown;
+characterThrowableCooldown = 0;
+direction = point_direction(mouse_x,mouse_y,obj_Player.x,obj_Player.y);

@@ -8,7 +8,7 @@ var ifBlockIsThere = instance_place(x + -2.5, y + 0, obj_Wall);
 
 //Checks t see if it will collide with a wall
 if (!(ifBlockIsThere > 0)){
-	characterDirection = true;
+	characterDirection = false;
 	// change the sprite to the left
 	sprite_index = spr_playerMoveL;
 	image_speed = 1.5;

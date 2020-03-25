@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "068c3277-e5eb-4d09-8d72-83da8141c2a7",
+            "Value": {
+                "id": "d52af03c-bec1-45a9-a330-aad5c9b397f0",
+                "resourcePath": "views\\068c3277-e5eb-4d09-8d72-83da8141c2a7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0ac024f7-699f-424a-ad31-10da5e626615",
             "Value": {
                 "id": "fc4ceb02-6504-4fd6-b65b-1cdfe35e0f3f",
@@ -151,6 +159,14 @@
             }
         },
         {
+            "Key": "33235639-26c9-4575-8d42-eec2bb40ebd7",
+            "Value": {
+                "id": "0814c195-7161-4dd9-900a-efecc96cb110",
+                "resourcePath": "sprites\\spr_rumThrowable\\spr_rumThrowable.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3364d419-8f40-4c82-a749-c738c384ea0b",
             "Value": {
                 "id": "09b796ff-74b4-4879-b97e-6463e056d73f",
@@ -180,6 +196,14 @@
                 "id": "65e2b0ac-55f3-4b20-ad9e-c802cb1ced29",
                 "resourcePath": "sprites\\spr_flyerTest\\spr_flyerTest.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "428c7430-e2ed-4df5-bda8-3b6b583804ca",
+            "Value": {
+                "id": "f879f697-ab6f-45eb-ad1c-f6f8ba255892",
+                "resourcePath": "views\\428c7430-e2ed-4df5-bda8-3b6b583804ca.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -319,6 +343,14 @@
             }
         },
         {
+            "Key": "a887664b-c10e-46d0-bab5-c304264bb716",
+            "Value": {
+                "id": "1d4a020e-95e9-47d1-88d8-5299478d420b",
+                "resourcePath": "views\\a887664b-c10e-46d0-bab5-c304264bb716.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "4b09387d-1bac-4976-9886-d46c048de493",
@@ -452,6 +484,14 @@
                 "id": "46ae9cdf-f4c4-410d-9f5b-7d221de6bd85",
                 "resourcePath": "sprites\\spr_PlayerTest\\spr_PlayerTest.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d1287d3c-6071-45a2-bdfb-41371d9d97c1",
+            "Value": {
+                "id": "23319f67-d7c5-45af-ba5c-99712bb3bd1b",
+                "resourcePath": "objects\\obj_rumThrowable\\obj_rumThrowable.yy",
+                "resourceType": "GMObject"
             }
         },
         {
