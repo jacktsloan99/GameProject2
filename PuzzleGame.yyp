@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "075a0e80-84cf-41b5-bcfb-8851bdfd1aa5",
+            "Value": {
+                "id": "843befa3-e394-4f82-80ec-a638b2e50a4c",
+                "resourcePath": "objects\\obj_BlueSwitch\\obj_BlueSwitch.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0ac024f7-699f-424a-ad31-10da5e626615",
             "Value": {
                 "id": "fc4ceb02-6504-4fd6-b65b-1cdfe35e0f3f",
@@ -231,11 +239,27 @@
             }
         },
         {
+            "Key": "61669915-0ef6-4b9a-8e4a-671fefef9eeb",
+            "Value": {
+                "id": "1b491523-7184-47b7-9a83-3968d736eff1",
+                "resourcePath": "sprites\\spr_GreenSwitch\\spr_GreenSwitch.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "62048226-316b-4036-9ee6-f585e81ec0e0",
             "Value": {
                 "id": "7770c90a-3eab-4f75-89ce-31bb6410aaca",
                 "resourcePath": "views\\62048226-316b-4036-9ee6-f585e81ec0e0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6ab64058-bd35-4896-8185-c83ef785f621",
+            "Value": {
+                "id": "c1be6e35-36bc-449f-a5de-8a88f9c495d0",
+                "resourcePath": "sprites\\spr_BlueSwitch\\spr_BlueSwitch.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -260,6 +284,14 @@
                 "id": "31e0f94b-af19-49ee-87bd-a8a09953156c",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "772513ef-e750-4f6e-bb4e-a1b8e8053752",
+            "Value": {
+                "id": "6beda94f-14f4-4cf4-b79e-5119592ae332",
+                "resourcePath": "objects\\obj_RedSwitch\\obj_RedSwitch.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -316,6 +348,14 @@
                 "id": "b3a02d19-7a98-4939-b744-327d3d90c852",
                 "resourcePath": "views\\90ee4b70-37fd-4182-9d9a-53ea7cd667e6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "978a4e6c-26d4-4edb-b7ff-e9f4e3841425",
+            "Value": {
+                "id": "3feb2919-9883-4168-ae3a-c055a6246823",
+                "resourcePath": "objects\\obj_GreenSwitch\\obj_GreenSwitch.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -396,6 +436,14 @@
                 "id": "25957e3f-80b3-4011-bdfa-6aba59e98ad0",
                 "resourcePath": "views\\b31af7fe-8e04-4359-a9b9-b57a6238355b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b6369b86-8022-41a9-834c-a1f1646a8cab",
+            "Value": {
+                "id": "a5b05f9f-87d1-4016-ba5d-250223f23ebe",
+                "resourcePath": "sprites\\spr_RedSwitch\\spr_RedSwitch.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
