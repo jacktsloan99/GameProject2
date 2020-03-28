@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "178e7158-0f90-4e4c-a325-be197d32d9e6",
+            "Value": {
+                "id": "004afa0a-867e-442d-a3da-ab4dec5ec8eb",
+                "resourcePath": "objects\\obj_game_controller\\obj_game_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1a2e656d-12a8-414c-8145-1e9d12b5ec03",
             "Value": {
                 "id": "4afce982-a0e6-4acd-a998-fa616d8bc41e",
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "2a0f89da-c6ae-4082-aab0-acb637a78b93",
+            "Value": {
+                "id": "2bce112b-b3e2-477c-bdbd-180fb06d4d5e",
+                "resourcePath": "shaders\\shader_red\\shader_red.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "2d818d23-2a77-4c72-8788-9264925fab0b",
             "Value": {
                 "id": "a7e2b6ba-3944-4af4-8961-c863eb2a0827",
@@ -180,6 +196,14 @@
                 "id": "09b796ff-74b4-4879-b97e-6463e056d73f",
                 "resourcePath": "rooms\\roomLevel1\\roomLevel1.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "3679740b-c27f-4d20-9b1d-2de21d5b3765",
+            "Value": {
+                "id": "24779c2f-67a4-4a3e-9ebc-458e3cafc2ac",
+                "resourcePath": "shaders\\shader_green\\shader_green.yy",
+                "resourceType": "GMShader"
             }
         },
         {
@@ -228,6 +252,22 @@
                 "id": "eeb3f619-deea-4123-88d2-60440e5c2310",
                 "resourcePath": "sprites\\spr_playerMoveL\\spr_playerMoveL.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4e5fe18c-ffba-44da-836d-d3385861afa9",
+            "Value": {
+                "id": "16791408-9393-4bdb-8698-1ac5b179a410",
+                "resourcePath": "tilesets\\tile_blocks\\tile_blocks.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "52ca52bb-4c46-4028-a466-07c502a8de8b",
+            "Value": {
+                "id": "0cf249ff-7453-4d34-b4fe-7a15fc60cf3b",
+                "resourcePath": "shaders\\shader_blue\\shader_blue.yy",
+                "resourceType": "GMShader"
             }
         },
         {
@@ -343,6 +383,14 @@
             }
         },
         {
+            "Key": "8c539b04-4eb2-4323-8fa5-095374a3c0b0",
+            "Value": {
+                "id": "96617858-8349-4bd5-8017-29781805561c",
+                "resourcePath": "views\\8c539b04-4eb2-4323-8fa5-095374a3c0b0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "8d938c11-3cbb-43d4-8a3b-2a6a5422b393",
             "Value": {
                 "id": "9dc37f43-fb44-4c11-95c8-91604053516f",
@@ -388,6 +436,14 @@
                 "id": "ba233d00-2842-4f8e-8114-ece72a046d27",
                 "resourcePath": "objects\\obj_RedDoor\\obj_RedDoor.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a6e687d6-34db-41dd-9523-95b6d59b1ad7",
+            "Value": {
+                "id": "af704268-3103-4d04-89ec-d00e0910c55f",
+                "resourcePath": "sprites\\spr_block\\spr_block.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -495,6 +551,14 @@
             }
         },
         {
+            "Key": "c3915724-c0f8-4e11-9b8d-567a865dd62c",
+            "Value": {
+                "id": "c2ceef84-ded8-489f-94fb-73306d9fcc73",
+                "resourcePath": "rooms\\bossTestingRoom\\bossTestingRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "c3fdf309-7826-4164-9e24-d2ce9c2bd093",
             "Value": {
                 "id": "cc21ca0d-2dff-4619-8a59-f26880e4fdbd",
@@ -524,6 +588,14 @@
                 "id": "9975cd83-1424-4446-9c71-ec75e11950b3",
                 "resourcePath": "objects\\obj_RedBox\\obj_RedBox.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c903b5b4-17d5-47ae-aa54-f2ba54f65d4d",
+            "Value": {
+                "id": "a212af04-7ba6-4112-b12d-51bca7c03f16",
+                "resourcePath": "sprites\\spr_fishBoss\\spr_fishBoss.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -575,6 +647,14 @@
             }
         },
         {
+            "Key": "d5f9aa34-febb-484e-9d3d-4c47f29adecd",
+            "Value": {
+                "id": "824d6f15-b5a1-423d-ac3d-2dac9e752934",
+                "resourcePath": "paths\\path_boss\\path_boss.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "d651d43c-3675-40fe-a224-8450802bd4d5",
             "Value": {
                 "id": "f108ef0f-856b-4981-a766-8404f90c31e9",
@@ -588,6 +668,14 @@
                 "id": "29486dbb-ce00-4b68-9fa4-855e520890e8",
                 "resourcePath": "sprites\\spr_BlueDoor\\spr_BlueDoor.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "da138cf0-4432-4998-8e36-83e68f2bde89",
+            "Value": {
+                "id": "4674946c-0033-4c6a-88a8-44f88c831862",
+                "resourcePath": "objects\\obj_Boss\\obj_Boss.yy",
+                "resourceType": "GMObject"
             }
         },
         {

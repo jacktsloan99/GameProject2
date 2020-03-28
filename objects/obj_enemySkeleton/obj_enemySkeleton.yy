@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_enemySkeleton",
     "eventList": [
-        
+        {
+            "id": "58741fbc-c6a6-4f4f-81e4-e06587edf14e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "d1287d3c-6071-45a2-bdfb-41371d9d97c1",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "b0593ca7-dd7a-4f4e-9add-227c3d2434a9"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -22,7 +31,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "901275ba-7b4f-4bab-82a8-551930fded45",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "15",
+            "varName": "enemyScore",
+            "varType": 0
+        }
+    ],
     "solid": false,
     "spriteId": "d31bf852-180c-4186-be8b-90183ab2fafc",
     "visible": true

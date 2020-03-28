@@ -6,3 +6,4 @@ image_angle = direction;
 // sets how fast the bullet travel 
 speed = 8;
 gravity = .15;
+

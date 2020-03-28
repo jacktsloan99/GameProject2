@@ -11,3 +11,8 @@ characterDirection = true;
 globalvar characterThrowableCooldown;
 characterThrowableCooldown = 0;
 direction = point_direction(mouse_x,mouse_y,obj_Player.x,obj_Player.y);
+
+
+/// hopfully will let me change and set the shader for the boss
+globalvar shaderScore;
+shaderScore = 0;
