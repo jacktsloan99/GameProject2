@@ -16,3 +16,20 @@ direction = point_direction(mouse_x,mouse_y,obj_Player.x,obj_Player.y);
 /// hopfully will let me change and set the shader for the boss
 globalvar shaderScore;
 shaderScore = 0;
+
+
+
+// for the finite state machine for pushing
+enum States {
+	regular,
+	pushing
+}
+enum GrabAxis {
+	none,
+	horizontal,
+	vertical
+}
+state = States.regular
+grabTarget = noone
+grabDirection = GrabAxis.none
+// end of fintie state machine
