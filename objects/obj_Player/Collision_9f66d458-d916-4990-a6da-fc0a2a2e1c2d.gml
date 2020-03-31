@@ -5,7 +5,7 @@
 
 with(obj_game_controller) {
 	if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
-	var currentLifes = __dnd_lives;
+	var currentLives = __dnd_lives;
 }
 
 with(obj_game_controller) {
@@ -13,10 +13,9 @@ with(obj_game_controller) {
 	__dnd_lives += real(-1);
 }
 
-if(currentLifes > 0)
+if(currentLives > 0)
 {
 	instance_change(obj_Player, true);
 
-	x = xstart;
-	y = ystart;
+	room_restart()
 }
