@@ -5,13 +5,13 @@
     "name": "obj_RedDoor",
     "eventList": [
         {
-            "id": "6ee1640c-588d-4ecb-b11b-6fbdfb4c7ee9",
+            "id": "347acd66-8556-4ebe-958b-78ab91d53552",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "c8dcb27f-2418-4542-88d1-d2cc77923412",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
+            "eventtype": 3,
             "m_owner": "a0d23f89-5785-4173-bd3c-2edf85ad76c0"
         }
     ],
@@ -31,7 +31,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "54be1b29-184f-43f1-9374-1d7510e36027",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "booleanType",
+            "varType": 0
+        }
+    ],
     "solid": true,
     "spriteId": "298609eb-b9ec-47eb-9c77-9a3eccae253e",
     "visible": true

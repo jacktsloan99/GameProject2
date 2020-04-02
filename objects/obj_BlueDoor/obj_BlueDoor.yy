@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_BlueDoor",
     "eventList": [
-        
+        {
+            "id": "5523b071-1322-41bf-8ff1-428e71dbcac0",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "e23a44e7-cf67-4b1b-ad34-43c2fd11be96"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

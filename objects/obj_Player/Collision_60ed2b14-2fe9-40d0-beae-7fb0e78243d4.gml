@@ -9,7 +9,7 @@ if(y < other.y+8) and (vspeed>0){
 
 //audio_play_sound(snd_kill_monster,0,0);
 instance_destroy(other);
-__dnd_score += real(30);
+obj_game_controller.__dnd_score += real(30);
 vspeed = -6;
 
 } else {
