@@ -6,6 +6,12 @@
 */
 
 //Checks t see if it will collide with a wall
-if place_meeting(x,y+1,obj_Wall) or place_meeting(x,y+1,obj_Platform){
- vspeed = -10;
+if (place_meeting(x,y+1,obj_Wall) or place_meeting(x,y+1,obj_Platform)){
+ jumps = maxJumps
+}
+if(keyboard_check_pressed(vk_space) and jumps > 0){
+
+vspeed = -10;
+jumps -=1;
+
 }

@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "13d7be6f-d888-48b1-bf8c-acbe689b966c",
+            "Value": {
+                "id": "d91dfd23-c556-4e38-b3fe-02fe9453ca56",
+                "resourcePath": "sprites\\spr_movingPlatform\\spr_movingPlatform.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "177b57e7-539e-49d3-8ced-86657062384d",
             "Value": {
                 "id": "a9059185-e0d8-4413-9f05-fe5402bf48f4",
@@ -212,6 +220,14 @@
                 "id": "a7e2b6ba-3944-4af4-8961-c863eb2a0827",
                 "resourcePath": "sprites\\spr_TrapDoor\\spr_TrapDoor.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2ddc30a6-cbf8-4132-bc2a-353658bda806",
+            "Value": {
+                "id": "85164792-a402-4b0f-a600-1aec7bf2b5c8",
+                "resourcePath": "objects\\obj_GreenDoor\\obj_GreenDoor.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -359,6 +375,14 @@
             }
         },
         {
+            "Key": "66764424-a78b-4f83-b372-312a8748d347",
+            "Value": {
+                "id": "ddf181b3-874f-4e30-a14c-ef00f9865892",
+                "resourcePath": "objects\\obj_movingPlatform\\obj_movingPlatform.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6a20df39-15d4-4ed7-894f-64a9248d245b",
             "Value": {
                 "id": "01a0fd79-df82-435c-aa58-be584f52ed71",
@@ -404,6 +428,14 @@
                 "id": "31e0f94b-af19-49ee-87bd-a8a09953156c",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "7338c4fa-9ddd-4c09-b059-6132d012e64b",
+            "Value": {
+                "id": "4d73da39-d556-464d-b86d-01122daf0169",
+                "resourcePath": "paths\\path1\\path1.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -611,6 +643,14 @@
             "Value": {
                 "id": "a5b05f9f-87d1-4016-ba5d-250223f23ebe",
                 "resourcePath": "sprites\\spr_RedSwitch\\spr_RedSwitch.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b773cee1-eb13-476b-90dc-b06a59d87496",
+            "Value": {
+                "id": "b68e32cc-c325-4852-88ce-41947481bacc",
+                "resourcePath": "sprites\\spr_GreenDoor\\spr_GreenDoor.yy",
                 "resourceType": "GMSprite"
             }
         },

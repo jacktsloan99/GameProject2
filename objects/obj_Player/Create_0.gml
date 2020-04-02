@@ -4,6 +4,8 @@
 @Author Jack Sloan
 @Version 3.18.2020
 */
+jumps = 0;
+maxJumps = 2;
 gravity_direction = 270;
 globalvar characterDirection;
 characterDirection = true;
