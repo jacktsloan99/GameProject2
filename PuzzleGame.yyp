@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "0b1a4775-7a2c-4ce5-b1ac-beef82aab3ea",
+            "Value": {
+                "id": "7cabe2e3-33a3-4dea-9a13-482ddbdcf81d",
+                "resourcePath": "fonts\\fnt_titleScreens\\fnt_titleScreens.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "11695160-5e10-4ee2-8f14-9fb391f9c200",
             "Value": {
                 "id": "3bc1311c-0829-4d6f-bed4-237bcea85614",
@@ -463,6 +471,14 @@
             }
         },
         {
+            "Key": "707f4df3-9864-4415-8f70-f0bd76737a09",
+            "Value": {
+                "id": "7fc8da10-9dd2-45b6-b5df-2443a73516bd",
+                "resourcePath": "objects\\obj_controls\\obj_controls.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "71f1a154-bd2c-41a4-b258-fe3f1de51e14",
             "Value": {
                 "id": "31e0f94b-af19-49ee-87bd-a8a09953156c",
@@ -476,6 +492,14 @@
                 "id": "4d73da39-d556-464d-b86d-01122daf0169",
                 "resourcePath": "paths\\path_TimeLine1\\path_TimeLine1.yy",
                 "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "752045d2-7173-4649-96a1-ced9933a80bd",
+            "Value": {
+                "id": "f330d6fa-f98d-4476-a75e-246c8e9b0e11",
+                "resourcePath": "views\\752045d2-7173-4649-96a1-ced9933a80bd.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -564,6 +588,14 @@
                 "id": "96617858-8349-4bd5-8017-29781805561c",
                 "resourcePath": "views\\8c539b04-4eb2-4323-8fa5-095374a3c0b0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8d8d465d-e20f-4455-a797-31a1f59dc78b",
+            "Value": {
+                "id": "c1fc8b08-b08a-4ae2-904a-7baa442e9209",
+                "resourcePath": "rooms\\rm_controls\\rm_controls.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -671,6 +703,14 @@
             }
         },
         {
+            "Key": "aedd3cc5-c30f-4ae8-ac37-fcf02e0de979",
+            "Value": {
+                "id": "8dde5e13-fa21-4804-b603-aae3e08398bf",
+                "resourcePath": "objects\\obj_opening\\obj_opening.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b0593ca7-dd7a-4f4e-9add-227c3d2434a9",
             "Value": {
                 "id": "de64396f-4c7f-4dfe-9b9e-5d05ea7c808d",
@@ -700,6 +740,14 @@
                 "id": "25957e3f-80b3-4011-bdfa-6aba59e98ad0",
                 "resourcePath": "views\\b31af7fe-8e04-4359-a9b9-b57a6238355b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b5e922f6-6f21-47ad-9432-0bef444061c9",
+            "Value": {
+                "id": "2772b188-987a-4a01-a74f-d743de887491",
+                "resourcePath": "rooms\\rm_intro\\rm_intro.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -927,6 +975,14 @@
             }
         },
         {
+            "Key": "e262dee9-4844-4be3-aeef-f183c98bc901",
+            "Value": {
+                "id": "9de4b82e-d0fb-4411-9024-1db7177a3916",
+                "resourcePath": "sprites\\spr_intro\\spr_intro.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e2d86fed-8a47-42a5-b2a4-531aeeae4119",
             "Value": {
                 "id": "0993eb5a-de4e-451c-94e7-9109b31b1cd7",
@@ -1012,6 +1068,14 @@
                 "id": "4e26df2b-c290-4423-9055-b188faeb5efe",
                 "resourcePath": "sprites\\spr_movingPlatform\\spr_movingPlatform.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "faf259a9-2dfa-4afa-a29f-0381901b1269",
+            "Value": {
+                "id": "994d37f2-5d74-4983-baeb-e6141a57a37e",
+                "resourcePath": "rooms\\rm_ending\\rm_ending.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
