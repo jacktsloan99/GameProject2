@@ -4,6 +4,9 @@
 @Author Jack Sloan
 @Version 3.18.2020
 */
+
+
+
 //Checks for blocks that can be walked on.
 if place_meeting(x,y+1,obj_Wall) or place_meeting(x,y+1,obj_Platform){
  gravity = 0;
@@ -11,7 +14,7 @@ if place_meeting(x,y+1,obj_Wall) or place_meeting(x,y+1,obj_Platform){
 } else {
 gravity = .5;
 }
-
+//allows player to double jump 
 if (jumps == 0 and vspeed < 0){
 	sprite_index = spr_playerDoubleR
 	image_speed = 1.5;

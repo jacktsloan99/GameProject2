@@ -1,38 +1,38 @@
 {
-    "id": "66764424-a78b-4f83-b372-312a8748d347",
+    "id": "1f84b630-817c-40dd-af74-de6cc0b0f7a5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_movingPlatform",
+    "name": "obj_elavatorPlatform",
     "eventList": [
         {
-            "id": "19db5339-43e5-4c53-b938-5e5486568b3c",
+            "id": "4276f369-8628-41da-85db-6ff257673058",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "66764424-a78b-4f83-b372-312a8748d347"
+            "m_owner": "1f84b630-817c-40dd-af74-de6cc0b0f7a5"
         },
         {
-            "id": "951b26ff-3bf2-4689-b0ef-ce3ed370774b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "e63d8b71-9020-48a2-91d7-6df69f21f5c1",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "66764424-a78b-4f83-b372-312a8748d347"
-        },
-        {
-            "id": "d2dddfa6-0102-456f-be34-9a52cc040e39",
+            "id": "50edfc19-3fb5-4bb1-8194-8b19d8e36580",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 2,
             "eventtype": 3,
-            "m_owner": "66764424-a78b-4f83-b372-312a8748d347"
+            "m_owner": "1f84b630-817c-40dd-af74-de6cc0b0f7a5"
+        },
+        {
+            "id": "7fdd09f3-5083-450e-8f23-aba27ca7ca68",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "e63d8b71-9020-48a2-91d7-6df69f21f5c1",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "1f84b630-817c-40dd-af74-de6cc0b0f7a5"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,7 +53,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "ed981bae-3158-40cc-8276-93a8bbf623ac",
+            "id": "a5a91811-fdde-4f14-8835-bba339f88547",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -67,7 +67,7 @@
             "varType": 0
         }
     ],
-    "solid": true,
-    "spriteId": "fa245795-514a-43f4-b3ce-a14a23aaaeaf",
+    "solid": false,
+    "spriteId": "11e8c358-c0cb-4b79-901e-2bfe3412f547",
     "visible": true
 }
