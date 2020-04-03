@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "01926c91-0b8f-4b14-8e7e-647f416a4b08",
+            "Value": {
+                "id": "f51e6f9b-617c-4dd0-b483-9da6ab914867",
+                "resourcePath": "paths\\path_TimeLine2\\path_TimeLine2.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "04408522-7a33-4cf9-a3a6-6e4b915c1233",
             "Value": {
                 "id": "2df13f7e-47ab-4a27-aaaa-898d47c7a9ed",
@@ -60,6 +68,14 @@
                 "id": "843befa3-e394-4f82-80ec-a638b2e50a4c",
                 "resourcePath": "objects\\obj_BlueSwitch\\obj_BlueSwitch.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "08714f85-b985-4caa-9a93-5ac6f99ccdd9",
+            "Value": {
+                "id": "cc74f1de-e582-42d3-9e09-7b79e3801168",
+                "resourcePath": "sprites\\spr_elevatorStop\\spr_elevatorStop.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -155,14 +171,6 @@
             "Value": {
                 "id": "34dd4eae-3a9e-4d1d-998b-3be8fd7ace15",
                 "resourcePath": "objects\\obj_TrapDoor\\obj_TrapDoor.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "1e93a945-d2de-4a39-8f2c-f62f5a238f14",
-            "Value": {
-                "id": "24856409-d97d-4150-895b-84448add3623",
-                "resourcePath": "objects\\obj_timeLinePlatform\\obj_timeLinePlatform.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -466,7 +474,7 @@
             "Key": "7338c4fa-9ddd-4c09-b059-6132d012e64b",
             "Value": {
                 "id": "4d73da39-d556-464d-b86d-01122daf0169",
-                "resourcePath": "paths\\path_platform1\\path_platform1.yy",
+                "resourcePath": "paths\\path_TimeLine1\\path_TimeLine1.yy",
                 "resourceType": "GMPath"
             }
         },
@@ -599,6 +607,14 @@
             }
         },
         {
+            "Key": "9d843b1b-bef4-4b8f-a3dd-eeadbf47365c",
+            "Value": {
+                "id": "01d097e0-52c3-4515-8404-350e5385f234",
+                "resourcePath": "objects\\obj_TimelineFlyer\\obj_TimelineFlyer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9e7fc653-bd5d-4ad7-9224-0c97c47fd5d7",
             "Value": {
                 "id": "b218c436-850a-4e06-90db-86042dc60cb6",
@@ -659,6 +675,14 @@
             "Value": {
                 "id": "de64396f-4c7f-4dfe-9b9e-5d05ea7c808d",
                 "resourcePath": "objects\\obj_enemySkeleton\\obj_enemySkeleton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b1ca304d-6742-431a-8a81-f6c3b4d67287",
+            "Value": {
+                "id": "1bb73b3c-fbb4-445f-bcc0-0386b70e9bc9",
+                "resourcePath": "objects\\obj_elavatorStop\\obj_elavatorStop.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -831,14 +855,6 @@
             }
         },
         {
-            "Key": "d45bef7e-efb0-4525-bca8-26118d414aaa",
-            "Value": {
-                "id": "4b6a2b7d-53b3-4098-a5b2-0b6b3e05cb8f",
-                "resourcePath": "sprites\\spr_timeLinePlatform\\spr_timeLinePlatform.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "d5f9aa34-febb-484e-9d3d-4c47f29adecd",
             "Value": {
                 "id": "824d6f15-b5a1-423d-ac3d-2dac9e752934",
@@ -884,6 +900,14 @@
                 "id": "24319d3f-c55d-450b-837f-bc4534318196",
                 "resourcePath": "views\\dd494ea3-6389-4ce4-a9bd-328be2221ff6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "decff64d-c510-4bd6-8c39-2cbcf6d9c6d0",
+            "Value": {
+                "id": "4cb6772d-9917-45dc-aff5-d36191681634",
+                "resourcePath": "paths\\path_TimeLine3\\path_TimeLine3.yy",
+                "resourceType": "GMPath"
             }
         },
         {
