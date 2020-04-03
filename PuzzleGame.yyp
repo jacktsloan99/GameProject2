@@ -927,6 +927,14 @@
             }
         },
         {
+            "Key": "da06421c-a9e5-4cb1-8706-651ecfba173e",
+            "Value": {
+                "id": "984ec9c0-3d35-46a9-8426-e505578f5bb6",
+                "resourcePath": "fonts\\fnt_controlScreen\\fnt_controlScreen.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "da138cf0-4432-4998-8e36-83e68f2bde89",
             "Value": {
                 "id": "4674946c-0033-4c6a-88a8-44f88c831862",
