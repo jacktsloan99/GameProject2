@@ -6,3 +6,4 @@
 */
 //prevents box from falling through the floor
 vspeed = 0;
+hspeed = 0;
