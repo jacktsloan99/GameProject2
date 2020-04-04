@@ -8,7 +8,7 @@
 
 
 //Checks for blocks that can be walked on.
-if place_meeting(x,y+1,obj_Wall) or place_meeting(x,y+1,obj_Platform){
+if place_meeting(x,y+1,obj_Wall) or place_meeting(x,y+1,obj_Platform) or place_meeting(x,y+1,obj_TrapDoor){
  gravity = 0;
 
 } else {

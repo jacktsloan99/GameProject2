@@ -639,6 +639,14 @@
             }
         },
         {
+            "Key": "97d18a23-8fd3-4b11-82f6-eed5cdba2096",
+            "Value": {
+                "id": "609bdec2-81cc-4c84-a51c-c370a89a1c81",
+                "resourcePath": "objects\\obj_MovementMarker\\obj_MovementMarker.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9d843b1b-bef4-4b8f-a3dd-eeadbf47365c",
             "Value": {
                 "id": "01d097e0-52c3-4515-8404-350e5385f234",
@@ -660,6 +668,14 @@
                 "id": "ba233d00-2842-4f8e-8114-ece72a046d27",
                 "resourcePath": "objects\\obj_RedDoor\\obj_RedDoor.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a46df839-278a-4d59-9d5d-e506c488f63b",
+            "Value": {
+                "id": "a869f08a-76cf-41a1-86a7-390a51c911e6",
+                "resourcePath": "sprites\\spr_MovementMarker\\spr_MovementMarker.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
