@@ -15,8 +15,12 @@ if place_meeting(x,y+1,obj_Wall) or place_meeting(x,y+1,obj_Platform){
 gravity = .5;
 }
 //allows player to double jump 
-if (jumps == 0 and vspeed < 0){
+if (jumps == 0 and vspeed < 0 and characterDirection == true){
 	sprite_index = spr_playerDoubleR
+	image_speed = 1.5;
+}
+if (jumps == 0 and vspeed < 0 and characterDirection == false){
+	sprite_index = spr_playerDoubleL
 	image_speed = 1.5;
 }
 
