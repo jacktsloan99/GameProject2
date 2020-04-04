@@ -12,7 +12,8 @@ if state = States.regular {
 	}
 }
 
-if keyboard_check_direct(ord("E"))
+if mouse_check_button(mb_right)
+//keyboard_check_direct(ord("E"))
 {
 	
 	if state = States.pushing {
@@ -50,9 +51,10 @@ if keyboard_check_direct(ord("E"))
 	}
 }
 
-if keyboard_check_released(ord("E")) {
+if mouse_check_button_released(mb_right) {
 	// When you release the E key
 	// change the spirte to left if you are still moving
+	state = States.regular;
 	if characterDirection == false && hspeed != 0 {
 		sprite_index = spr_playerMoveL;
 	}

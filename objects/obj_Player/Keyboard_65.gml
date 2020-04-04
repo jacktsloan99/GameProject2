@@ -17,6 +17,6 @@ if (!(ifBlockIsThere > 0)){
 	y += 0;
 } 
 
-if (keyboard_check_direct(ord("E"))) {
+if (mouse_check_button(mb_right)) {
 	sprite_index = spr_carryingRunL;
 }
