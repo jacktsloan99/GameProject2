@@ -4,6 +4,7 @@
 @Author Jack Sloan
 @Version 3.18.2020
 */
+key_down = false;
 jumps = 0;
 maxJumps = 2;
 gravity_direction = 270;

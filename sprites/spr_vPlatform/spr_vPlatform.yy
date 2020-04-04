@@ -2,7 +2,7 @@
     "id": "11e8c358-c0cb-4b79-901e-2bfe3412f547",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_elavatorPlatform",
+    "name": "spr_vPlatform",
     "For3D": false,
     "HTile": false,
     "VTile": false,
