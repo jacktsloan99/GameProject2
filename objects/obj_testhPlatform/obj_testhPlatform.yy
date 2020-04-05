@@ -1,14 +1,14 @@
 {
-    "id": "44801365-309f-4dc9-9b39-ef3f8fea2091",
+    "id": "5b46b8bd-67c0-4120-8973-c8ccd7580379",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_hPlatform",
+    "name": "obj_testHPlatform",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "592df77c-bba4-4bef-aaf3-457505684b4e",
+    "parentObjectId": "541192ab-f9db-4b3d-aaf5-cbefad65e375",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

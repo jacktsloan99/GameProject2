@@ -1,12 +1,14 @@
 /// @description Insert description here
 // You can write your code in this editor
-mask_index = spr_hPlatform;
 
-if(place_meeting(x+hspeed,y,obj_Wall)){
-	while(!place_meeting(x+sign(hspeed),y,obj_Wall)){
-		x += sign(hspeed)
+mask_index = spr_vPlatform;
+
+
+if(place_meeting(x,y + vspeeds ,obj_Wall)){
+	while(!place_meeting(x,y + sign(vspeeds),obj_Wall)){
+		y += sign(vpseeds)
 	}
-	hspeed = hspeed * -1;
+	
 
 	
 }
@@ -18,10 +20,10 @@ if (instance_exists(obj_Player)) {
 	else{
 		mask_index = spr_mPlatforms
 		if( place_meeting(x,y-1,obj_Player)){
-			obj_Player.hspeed = hspeed;
+			obj_Player.vspeed = vspeeds;
 		}
 		else{
-			obj_Player.hspeed = 0;
+			obj_Player.vspeed = 0;
 		}
 	}
 }

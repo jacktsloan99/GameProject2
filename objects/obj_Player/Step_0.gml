@@ -4,9 +4,15 @@
 @Author Jack Sloan
 @Version 3.18.2020
 */
+if(instance_place(x,y+1,obj_mPlatform)){
+var ride = instance_place(x,y+1,obj_mPlatform)
+hspeed := ride.hspeed
+}
+else
+{
+hspeed = 0;
+}
 
-
-	
 
 
 //Checks for blocks that can be walked on.

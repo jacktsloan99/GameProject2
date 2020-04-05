@@ -2,7 +2,7 @@
     "id": "44801365-309f-4dc9-9b39-ef3f8fea2091",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_hPlatform",
+    "name": "obj_hPlatformPH",
     "eventList": [
         
     ],
