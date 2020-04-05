@@ -4,6 +4,7 @@
 @Author Jack Sloan
 @Version 3.18.2020
 */
+key_down = keyboard_check(ord("S"))
 if(instance_place(x,y+1,obj_mPlatform)){
 var ride = instance_place(x,y+1,obj_mPlatform)
 hspeed := ride.hspeed
