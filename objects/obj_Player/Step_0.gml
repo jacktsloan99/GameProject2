@@ -61,7 +61,7 @@ if (leftMouseClickCheck)
 	{
 		instance_create_layer(x, y, "Layer_Bullet", obj_rumThrowable);
 		// sets how long inbetween each rum is thrown
-		characterThrowableCooldown = 32;
+		characterThrowableCooldown = 24;
 	}
 	characterThrowableCooldown += -1;
 }
