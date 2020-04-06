@@ -1,1 +1,1 @@
-path_start(path_TimeLine2,8,path_action_stop,true);
+path_start(path_TimeLine2,7,path_action_stop,true);
