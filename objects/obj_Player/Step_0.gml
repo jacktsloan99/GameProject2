@@ -64,21 +64,21 @@ if keyboard_check(vk_nokey) {
 
 
 // Following the Mouse Code
-//point_direction(mouse_x,mouse_y,obj_Player.x,obj_Player.y);
+point_direction(mouse_x,mouse_y,obj_Player.x,obj_Player.y);
 
 // Throwable object code 
-//var leftMouseClickCheck;
-//leftMouseClickCheck = mouse_check_button(mb_left);
-//if (leftMouseClickCheck)
-//{
-//	if(characterThrowableCooldown <= 0)
-//	{
-//		instance_create_layer(x, y, "Layer_Bullet", obj_rumThrowable);
-//		 //sets how long inbetween each rum is thrown
-//		characterThrowableCooldown = 24;
-//	}
-//	characterThrowableCooldown += -1;
-//}
+var leftMouseClickCheck;
+leftMouseClickCheck = mouse_check_button(mb_left);
+if (leftMouseClickCheck)
+{
+	if(characterThrowableCooldown <= 0)
+	{
+		instance_create_layer(x, y, "Layer_Bullet", obj_rumThrowable);
+		 //sets how long inbetween each rum is thrown
+		characterThrowableCooldown = 24;
+	}
+	characterThrowableCooldown += -1;
+}
 
 // Finite state machine / Box movement
 if state == States.lifting {
