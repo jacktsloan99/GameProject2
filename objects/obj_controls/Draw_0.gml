@@ -6,7 +6,7 @@ draw_set_valign(fa_top);
 draw_set_colour(c_blue & $ffffff);
 draw_text(1046, 350, string(" CONTROLS:\n") + "");
 draw_set_colour(c_white & $ffffff);
-draw_text(1046, 410, string(" Right Mouse Button (RMB) - pick up boxes\n Left mouse click - shoot projectiles\n A and D - left and right movement\n Single jump - press space bar once\n Double jump - press space bar again while in the air\n S - to drop down if on a platform") + "");
+draw_text(1046, 410, string(" Right Mouse Button (RMB) - pick up boxes\n Hold Down Left Mouse Button - shoot projectiles\n A and D - left and right movement\n Single jump - press space bar once\n Double jump - press space bar again while in the air\n S - will make the character fall through moving platforms and white boxes") + "");
 draw_set_colour(c_lime & $ffffff);
 draw_text(1046, 740, string(" \n \n \n GOAL:\n") + "");
 draw_set_colour(c_white & $ffffff);
