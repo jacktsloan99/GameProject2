@@ -17,6 +17,8 @@ if (!(ifBlockIsThere > 0)){
 	y += 0;
 } 
 
-if (mouse_check_button(mb_right)) {
+if state = States.lifting {
+	characterDirection = false;
 	sprite_index = spr_carryingRunL;
+	image_speed = 1.5;
 }

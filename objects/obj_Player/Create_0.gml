@@ -24,15 +24,17 @@ shaderScore = 0;
 
 // for the finite state machine for pushing
 enum States {
-	regular,
-	pushing
+	walking,
+	lifting
 }
 enum GrabAxis {
 	none,
 	horizontal,
 	vertical
 }
-state = States.regular
+state = States.walking
 grabTarget = noone
 grabDirection = GrabAxis.none
+boxInHand = false;
+inst = noone; 
 // end of fintie state machine
