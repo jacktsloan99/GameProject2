@@ -759,6 +759,14 @@
             }
         },
         {
+            "Key": "aff1e75b-e2ab-4746-8ff1-63709c8ca815",
+            "Value": {
+                "id": "00afb7e3-8317-4594-a77b-b3d5178e6208",
+                "resourcePath": "sprites\\spr_playerDeath\\spr_playerDeath.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b0593ca7-dd7a-4f4e-9add-227c3d2434a9",
             "Value": {
                 "id": "de64396f-4c7f-4dfe-9b9e-5d05ea7c808d",

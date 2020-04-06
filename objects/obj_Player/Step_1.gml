@@ -44,10 +44,12 @@ if mouse_check_button(mb_right)
 	var inst;
 	inst = instance_place(obj_Player.x, obj_Player.y, obj_Box)
 	if inst != noone {
-		inst.speed = 10;
-		//inst.gravity = 0;
+		//inst.speed = 10;
+		inst.gravity = 0;
+		inst.hspeed = obj_Player.hspeed + 2
+		inst.vspeed = obj_Player.vspeed + 2
 		inst.x = obj_Player.x;
-		inst.y = obj_Player.y - 60;
+		inst.y = obj_Player.y - 45;
 	}
 }
 
