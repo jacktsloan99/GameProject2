@@ -8,3 +8,5 @@ start_y = y;
 // 3 refers to how fast to follow the path
 path_start(path_boss, 2, path_action_reverse, false);
 depth = 10;
+
+bossLives = 3;

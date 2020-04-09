@@ -23,3 +23,7 @@ else if (path_index != path_boss) {
 		image_xscale = 1;
 	}
 }
+
+//This is going to be the lives system
+
+
