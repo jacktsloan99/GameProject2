@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "193dd77c-607f-47c3-a4ab-7aef8872940b",
+            "Value": {
+                "id": "618ac602-d1b8-4b4b-b9fa-668b2e9d1768",
+                "resourcePath": "sprites\\spr_playerDeathL\\spr_playerDeathL.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "19a80cb1-3e7d-4f4f-896b-887f87e7a931",
             "Value": {
                 "id": "64df4047-2227-4d08-a446-e951bfb59b4c",
@@ -751,6 +759,14 @@
             }
         },
         {
+            "Key": "adcf1f09-7201-4453-9730-06a7f33aff85",
+            "Value": {
+                "id": "8b92ab21-9d5c-4f18-bd24-847db95a6ff9",
+                "resourcePath": "views\\adcf1f09-7201-4453-9730-06a7f33aff85.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "aedd3cc5-c30f-4ae8-ac37-fcf02e0de979",
             "Value": {
                 "id": "8dde5e13-fa21-4804-b603-aae3e08398bf",
@@ -762,7 +778,7 @@
             "Key": "aff1e75b-e2ab-4746-8ff1-63709c8ca815",
             "Value": {
                 "id": "00afb7e3-8317-4594-a77b-b3d5178e6208",
-                "resourcePath": "sprites\\spr_playerDeath\\spr_playerDeath.yy",
+                "resourcePath": "sprites\\spr_playerDeathR\\spr_playerDeathR.yy",
                 "resourceType": "GMSprite"
             }
         },
