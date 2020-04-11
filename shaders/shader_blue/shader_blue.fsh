@@ -15,7 +15,7 @@ void main()
 	float Green = 0.0;
 	float Blue = OriginalColor.b;
 	float Red = 0.0;
-	float Alpha = 1.0;
+	float Alpha = .5;
 	// Create the new color
 	vec4 Color = vec4 (Red, Green, Blue, Alpha);
 	// Output the new color

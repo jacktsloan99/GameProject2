@@ -3,11 +3,12 @@
 player_x = obj_Player.x;
 player_y = obj_Player.y;
 
-// if distance from the enemy to the player is less then 200 = 
+// if distance from the enemy to the player is less then 450, orginal was 200 = 
 // stop the pathing and go for the player avoding boxes
-if (point_distance(x, y, player_x, player_y)) < 200 {
+if (point_distance(x, y, player_x, player_y)) < 450 {
 	path_end();
-	mp_potential_step_object(player_x, player_y, 2.0, obj_Wall)
+	// HERE IS THE SPEED OF THE BOSS - orginal was 2.0
+	mp_potential_step_object(player_x, player_y, 2.5, obj_Wall)
 } 
 // if we are not less then 200 there are two options
 else if (path_index != path_boss) {

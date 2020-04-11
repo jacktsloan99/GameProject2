@@ -5,22 +5,22 @@
     "name": "path_boss",
     "closed": false,
     "hsnap": 0,
-    "kind": 1,
+    "kind": 0,
     "points": [
         {
             "id": "7dfe9cb7-8a19-494e-abb4-2ceb5237bafa",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 352.3333,
-            "y": 189.666992,
+            "x": 193.333313,
+            "y": 64.66699,
             "speed": 100
         },
         {
             "id": "31cd9af3-1c7f-4298-841d-c00b6d6797cb",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 352.999939,
-            "y": 65.00098,
+            "x": 317.999939,
+            "y": 64.00098,
             "speed": 100
         },
         {
