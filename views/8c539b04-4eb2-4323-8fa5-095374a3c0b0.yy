@@ -6,7 +6,8 @@
     "children": [
         "a6e687d6-34db-41dd-9523-95b6d59b1ad7",
         "6a3dadd6-82f5-4955-a07c-ae0914b27589",
-        "936404a7-f239-4005-9cc9-6f531d7a29c4"
+        "936404a7-f239-4005-9cc9-6f531d7a29c4",
+        "5ddffc6e-1d5b-4ef9-9e61-34873350eed6"
     ],
     "filterType": "GMSprite",
     "folderName": "Tiles and Backgrounds",
