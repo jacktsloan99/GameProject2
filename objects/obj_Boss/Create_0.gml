@@ -9,6 +9,6 @@ start_y = y;
 path_start(path_boss, 2, path_action_reverse, false);
 depth = 10;
 
-bossLives = 3;
+bossLives = 4;
 
 orginalColor = color_get_value(obj_Boss)

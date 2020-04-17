@@ -25,6 +25,13 @@ else if (path_index != path_boss) {
 	}
 }
 
-
+// lives controlling the doors
+if (bossLives = 3){
+instance_destroy(obj_BlueDoor);
+} else if (bossLives = 2) {
+instance_destroy(obj_RedDoor);
+}else if (bossLives = 1){
+instance_destroy(obj_GreenDoor);
+}
 
 
