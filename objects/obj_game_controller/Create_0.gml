@@ -9,4 +9,4 @@ __dnd_score = real(0);
 /// @DnDHash : 7B012C69
 /// @DnDArgument : "lives" "3"
 
-__dnd_lives = real(3);
+__dnd_lives = real(5);

@@ -8,7 +8,11 @@
 if(y < other.y+8) and (vspeed>0){
 
 //audio_play_sound(snd_kill_monster,0,0);
-instance_destroy(other);
+	if(other.hspeed > 0){
+		with(other) instance_change(obj_SkeletonDeathR,true);
+	} else {
+		with(other) instance_change(obj_SkeletonDeathL,true);
+	}
 obj_game_controller.__dnd_score += real(25);
 vspeed = -6;
 
@@ -24,7 +28,10 @@ with(obj_game_controller) {
 }
 	if(currentLives > 0)
 {
-	instance_change(obj_Player, true);
-	room_restart()
+	if(hspeed > 0){
+		instance_change(obj_PlayerDeathR,true);
+	} else {
+		instance_change(obj_PlayerDeathL,true);
+	}
 }
 }

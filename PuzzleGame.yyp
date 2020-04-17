@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "18335809-3e5c-4896-aba5-8554d057da15",
+            "Value": {
+                "id": "bd8ad370-ae4b-439a-8b84-bcd73251e99a",
+                "resourcePath": "objects\\obj_SkeletonDeathL\\obj_SkeletonDeathL.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "193dd77c-607f-47c3-a4ab-7aef8872940b",
             "Value": {
                 "id": "618ac602-d1b8-4b4b-b9fa-668b2e9d1768",
@@ -180,6 +188,14 @@
                 "id": "4afce982-a0e6-4acd-a998-fa616d8bc41e",
                 "resourcePath": "sprites\\spr_playerJumpL\\spr_playerJumpL.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1bd75f88-8571-49da-9cf5-2f8408d96b74",
+            "Value": {
+                "id": "727d5efe-10ec-4b60-aae9-aaea7687e63b",
+                "resourcePath": "objects\\obj_Collectable\\obj_Collectable.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -511,6 +527,14 @@
             }
         },
         {
+            "Key": "64660f7d-9bb9-4758-801d-ef4393432395",
+            "Value": {
+                "id": "b05b3cec-768c-4e83-b7c3-a6c22b3285c6",
+                "resourcePath": "sprites\\spr_Collectable\\spr_Collectable.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6a20df39-15d4-4ed7-894f-64a9248d245b",
             "Value": {
                 "id": "01a0fd79-df82-435c-aa58-be584f52ed71",
@@ -540,6 +564,14 @@
                 "id": "c1be6e35-36bc-449f-a5de-8a88f9c495d0",
                 "resourcePath": "sprites\\spr_BlueSwitch\\spr_BlueSwitch.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6c6b5227-dac1-44a9-ab32-a5388ecfa71c",
+            "Value": {
+                "id": "dc78db56-fb1e-4490-8456-9c378418dad9",
+                "resourcePath": "objects\\obj_PlayerDeathR\\obj_PlayerDeathR.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -804,6 +836,22 @@
                 "id": "a869f08a-76cf-41a1-86a7-390a51c911e6",
                 "resourcePath": "sprites\\spr_MovementMarker\\spr_MovementMarker.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a4f0313f-944e-4495-97e4-aeb042c9aaec",
+            "Value": {
+                "id": "4590552d-c96a-4557-8466-aa94fbd5ec4d",
+                "resourcePath": "objects\\obj_SkeletonDeathR\\obj_SkeletonDeathR.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a4f6201a-bbae-4eee-ad0d-90d403604ee6",
+            "Value": {
+                "id": "f1a86869-8793-4447-aa79-d2f494fce9c6",
+                "resourcePath": "objects\\obj_PlayerDeathL\\obj_PlayerDeathL.yy",
+                "resourceType": "GMObject"
             }
         },
         {

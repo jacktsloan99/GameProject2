@@ -1,8 +1,8 @@
 {
-    "id": "e63d8b71-9020-48a2-91d7-6df69f21f5c1",
+    "id": "18335809-3e5c-4896-aba5-8554d057da15",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Wall",
+    "name": "obj_MonsterDeath",
     "eventList": [
         
     ],
@@ -23,7 +23,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
-    "spriteId": "8d938c11-3cbb-43d4-8a3b-2a6a5422b393",
-    "visible": false
+    "solid": false,
+    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "visible": true
 }

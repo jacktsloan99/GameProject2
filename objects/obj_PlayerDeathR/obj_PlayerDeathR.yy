@@ -1,10 +1,19 @@
 {
-    "id": "e63d8b71-9020-48a2-91d7-6df69f21f5c1",
+    "id": "6c6b5227-dac1-44a9-ab32-a5388ecfa71c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Wall",
+    "name": "obj_PlayerDeathR",
     "eventList": [
-        
+        {
+            "id": "82177676-daa0-4e37-b5d0-7c9f36f2a0aa",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 7,
+            "eventtype": 7,
+            "m_owner": "6c6b5227-dac1-44a9-ab32-a5388ecfa71c"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -23,7 +32,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
-    "spriteId": "8d938c11-3cbb-43d4-8a3b-2a6a5422b393",
-    "visible": false
+    "solid": false,
+    "spriteId": "aff1e75b-e2ab-4746-8ff1-63709c8ca815",
+    "visible": true
 }

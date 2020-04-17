@@ -24,7 +24,10 @@ with(obj_game_controller) {
 }
 	if(currentLives > 0)
 {
-	instance_change(obj_Player, true);
-	room_restart()
+	if(hspeed > 0){
+		instance_change(obj_PlayerDeathR,true);
+	} else {
+		instance_change(obj_PlayerDeathL,true);
+	}
 }
 }
