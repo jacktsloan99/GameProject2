@@ -25,6 +25,6 @@ else if (path_index != path_boss) {
 	}
 }
 
-//This is going to be the lives system
+
 
 
