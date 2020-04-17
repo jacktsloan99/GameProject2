@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 //Shaders
+ draw_self();
 if (bossLives = 3){
  shader_set(shader_blue);
  draw_self();
