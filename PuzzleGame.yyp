@@ -999,6 +999,14 @@
             }
         },
         {
+            "Key": "b4ad3dff-b3df-4ab3-943c-ea51fcbe015c",
+            "Value": {
+                "id": "421a1d70-e141-46d9-97f1-5d016f15484e",
+                "resourcePath": "objects\\obj_FlyerDeathR\\obj_FlyerDeathR.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b5e922f6-6f21-47ad-9432-0bef444061c9",
             "Value": {
                 "id": "2772b188-987a-4a01-a74f-d743de887491",
@@ -1012,6 +1020,14 @@
                 "id": "a5b05f9f-87d1-4016-ba5d-250223f23ebe",
                 "resourcePath": "sprites\\spr_RedSwitch\\spr_RedSwitch.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b663f152-dd2a-4102-8261-d8136b8844d7",
+            "Value": {
+                "id": "fc0cedc0-7475-4658-89fe-7fa53773107c",
+                "resourcePath": "objects\\obj_FlyerDeathL\\obj_FlyerDeathL.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -6,4 +6,3 @@ if(other.hspeed > 0){
 	} else {
 		with(other) instance_change(obj_SkeletonDeathL,true);
 	}
-instance_destroy();

@@ -8,7 +8,11 @@
 if(y < other.y+8) and (vspeed>0){
 
 //audio_play_sound(snd_kill_monster,0,0);
-instance_destroy(other);
+if(other.hspeed > 0){
+		with(other) instance_change(obj_FlyerDeathR,true);
+	} else {
+		with(other) instance_change(obj_FlyerDeathL,true);
+	}
 obj_game_controller.__dnd_score += real(30);
 vspeed = -6;
 
