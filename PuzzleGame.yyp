@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "23d83ab6-5ca7-4a88-8ed5-bb2332de3e47",
+            "Value": {
+                "id": "b307e43f-2f3a-4f88-865c-6b721cbe8265",
+                "resourcePath": "sounds\\snd_bottle\\snd_bottle.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "24a741f0-03f7-4f2f-8e94-1d064f795552",
             "Value": {
                 "id": "ee6bb134-fa27-4fea-8f62-f792f8496d4f",
@@ -343,6 +351,14 @@
             }
         },
         {
+            "Key": "355b4d6d-a223-4935-88c0-345c91718c99",
+            "Value": {
+                "id": "08522e25-edf9-4cd6-a3be-7e81b989578c",
+                "resourcePath": "sounds\\snd_level2\\snd_level2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "3679740b-c27f-4d20-9b1d-2de21d5b3765",
             "Value": {
                 "id": "24779c2f-67a4-4a3e-9ebc-458e3cafc2ac",
@@ -396,6 +412,14 @@
                 "id": "8965bc2a-4de7-4b96-b530-a0f4db8697b2",
                 "resourcePath": "sprites\\spr_flyingL\\spr_flyingL.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3b2391f3-735d-4a79-bd15-544fe47b27b2",
+            "Value": {
+                "id": "4c96b795-613b-4a32-8b0f-93625bd6744e",
+                "resourcePath": "sounds\\snd_Intro\\snd_Intro.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -511,6 +535,14 @@
             }
         },
         {
+            "Key": "5a3f5bf7-5fd7-4170-a4c1-78e416278afc",
+            "Value": {
+                "id": "162c4e64-9e16-44a3-9308-39a927f9baf0",
+                "resourcePath": "sounds\\snd_PlayerDeath\\snd_PlayerDeath.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "5b24d11d-9254-4af4-88a6-f351ee74d5ba",
             "Value": {
                 "id": "27c33e3e-f0b6-4cdc-bb93-4a4c324037fd",
@@ -604,6 +636,14 @@
                 "id": "c1be6e35-36bc-449f-a5de-8a88f9c495d0",
                 "resourcePath": "sprites\\spr_BlueSwitch\\spr_BlueSwitch.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6b787657-fb24-4321-a1d8-e529ac9e023d",
+            "Value": {
+                "id": "5f9859e7-6ddd-41f5-9ff0-b4edcb52d42c",
+                "resourcePath": "sounds\\snd_SkelImpact\\snd_SkelImpact.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -780,6 +820,14 @@
                 "id": "1ea4e311-e14d-4752-ba2a-3553f8cdcd48",
                 "resourcePath": "objects\\obj_SkeletonProjectile\\obj_SkeletonProjectile.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8c3f5e02-09d0-46ab-b82f-ed5ec21ac753",
+            "Value": {
+                "id": "37c5c893-ba6e-4d46-af7a-545baaef3299",
+                "resourcePath": "sounds\\snd_level3\\snd_level3.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1143,6 +1191,14 @@
             }
         },
         {
+            "Key": "c4ef464e-3c3a-46c8-a8c3-b098824a7b2d",
+            "Value": {
+                "id": "f94d7109-8f60-447f-8eae-1134b54ec8b7",
+                "resourcePath": "sounds\\snd_ParrotD\\snd_ParrotD.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "c877734e-ec57-4900-90a4-9b7e6aef2671",
             "Value": {
                 "id": "c15c0f80-2b0f-4f2a-a2e3-9d11da8bb634",
@@ -1444,6 +1500,14 @@
                 "id": "994d37f2-5d74-4983-baeb-e6141a57a37e",
                 "resourcePath": "rooms\\rm_ending\\rm_ending.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "fc0dea48-4371-4f8f-8dec-21258558bdf4",
+            "Value": {
+                "id": "b83bdc27-d265-41d4-8708-a295ad0c3889",
+                "resourcePath": "sounds\\snd_Level1\\snd_Level1.yy",
+                "resourceType": "GMSound"
             }
         },
         {
