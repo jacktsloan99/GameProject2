@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "252fca2a-6c60-4c88-8067-6bf21e26f4b9",
+            "Value": {
+                "id": "30f8a0f8-f5b2-4711-acfc-6a6d140c826a",
+                "resourcePath": "sounds\\snd_LevelWin\\snd_LevelWin.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "25c5ad41-ee78-4cad-a9bc-532ecde288cc",
             "Value": {
                 "id": "9c6f22a0-767f-4db8-a380-3180aaf87190",
