@@ -7,7 +7,8 @@
         "372b281c-f04b-40f1-a90a-26a5fa14ad40",
         "39ac732a-b29b-41f2-b813-67fc402cb6d4",
         "29a9275f-1715-4837-8252-6495e9e715ba",
-        "9ab94037-35b3-431b-b1a8-4c06dee7658e"
+        "9ab94037-35b3-431b-b1a8-4c06dee7658e",
+        "53c44f5b-cf06-43c4-b5bd-30d680fe9780"
     ],
     "filterType": "GMSprite",
     "folderName": "Parrot",

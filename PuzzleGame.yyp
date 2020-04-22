@@ -511,6 +511,14 @@
             }
         },
         {
+            "Key": "53c44f5b-cf06-43c4-b5bd-30d680fe9780",
+            "Value": {
+                "id": "3d8a6f54-fc58-4340-bf9c-11898a96f7b3",
+                "resourcePath": "sprites\\spr_ParrotCollision\\spr_ParrotCollision.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "53e0fc6e-3d22-4d29-bd7d-e942fb99b477",
             "Value": {
                 "id": "9b5e59a6-4d19-40ce-bd3d-ef9933cc11e2",
