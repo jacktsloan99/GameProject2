@@ -22,10 +22,14 @@ if mouse_check_button_pressed(mb_right) && grabTarget != noone {
 	
 	// change to state lifting - in step have it do the actual lifting code. 
 	if state == States.lifting {
-		state = States.walking
+		state = States.walking;
 		boxInHand = false;
+		//plays dropping audio
+		audio_play_sound(snd_dropping,1,false);
 		with (grabTarget) speed = 0
 	} else if instance_exists(grabTarget) && boxInHand == false {
 		state = States.lifting;
+		//plays audio for lifting box
+		audio_play_sound(snd_lifting,1,false);
 	}
 }

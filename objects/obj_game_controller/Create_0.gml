@@ -17,7 +17,7 @@ if room == roomLevel2{
 	
 	audio_play_sound(snd_level2,0,true);
 }
-if room =- roomLevel3{
+if room == roomLevel3{
 
 	audio_play_sound(snd_level3,0,true);
 }
