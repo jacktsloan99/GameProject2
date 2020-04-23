@@ -1,1 +1,1 @@
-path_start(path_TimeLine2,7,path_action_stop,true);
+timeline_position = 0;
