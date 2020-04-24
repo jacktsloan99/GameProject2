@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Kill Player
 // You can write your code in this editor
 obj_game_controller.__dnd_lives -=1;
 if(hspeed > 0){

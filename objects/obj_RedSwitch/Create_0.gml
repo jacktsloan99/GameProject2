@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Set Global Boolean
 // You can write your code in this editor
 /*
 @Author Jack Sloan

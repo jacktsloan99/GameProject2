@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Finite State Machine
 // You can write your code in this editor
 /*
 @Author Jack Sloan

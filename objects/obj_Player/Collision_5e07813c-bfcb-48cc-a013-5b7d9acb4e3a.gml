@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Kill Player Minus Life
 // You can write your code in this editor
 if(y < other.y+8) and (vspeed>0){
 

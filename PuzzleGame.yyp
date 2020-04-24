@@ -1423,6 +1423,14 @@
             }
         },
         {
+            "Key": "db181f01-2465-46d3-8ebf-ffb0a2c79cf8",
+            "Value": {
+                "id": "7ad1b4a6-9868-41c7-a44e-9b2efc3b7d8a",
+                "resourcePath": "views\\db181f01-2465-46d3-8ebf-ffb0a2c79cf8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "dc28c5cc-a52d-4884-b585-24d1945be50e",
             "Value": {
                 "id": "7411de68-da44-4975-8680-985b1a277732",
