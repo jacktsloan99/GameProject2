@@ -5,16 +5,6 @@
     "name": "obj_enemySkeleton",
     "eventList": [
         {
-            "id": "58741fbc-c6a6-4f4f-81e4-e06587edf14e",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "d1287d3c-6071-45a2-bdfb-41371d9d97c1",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "b0593ca7-dd7a-4f4e-9add-227c3d2434a9"
-        },
-        {
             "id": "68146e8f-d520-4ccd-8513-ef4cd283c51a",
             "modelName": "GMEvent",
             "mvc": "1.0",

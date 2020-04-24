@@ -1,18 +1,18 @@
 {
-    "id": "9d843b1b-bef4-4b8f-a3dd-eeadbf47365c",
+    "id": "747dd59c-2041-4085-928e-07a8fbd95ff0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_TimelineFlyer",
+    "name": "obj_music",
     "eventList": [
         {
-            "id": "6b514c9e-2442-4de5-bf5e-84755a2aefd6",
+            "id": "5496b5da-9c6a-4f9c-b95a-00cdf55233f9",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "9d843b1b-bef4-4b8f-a3dd-eeadbf47365c"
+            "m_owner": "747dd59c-2041-4085-928e-07a8fbd95ff0"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "372b281c-f04b-40f1-a90a-26a5fa14ad40",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
