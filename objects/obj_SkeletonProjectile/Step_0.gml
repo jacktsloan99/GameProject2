@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Speed
 // You can write your code in this editor
 
 speed = 8;

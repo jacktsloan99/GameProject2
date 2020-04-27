@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Audio and Collision
 // You can write your code in this editor
 //code adapted from 
 // https://forum.yoyogames.com/index.php?threads/falling-platforms-when-touched-solved.21161/

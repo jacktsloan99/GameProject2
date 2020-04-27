@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Setting Death Animation Orientation
 // You can write your code in this editor
 if (hspeed > 0){
 		 sprite_index = spr_flyingR;

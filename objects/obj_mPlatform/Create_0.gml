@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Speed / Sprite Direction
 // You can write your code in this editor
 // refrence https://www.youtube.com/watch?v=4dGjbxvZ0QQ
 sprite_index = -1;

@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Collsion
 // You can write your code in this editor
 mask_index = spr_choice;
 

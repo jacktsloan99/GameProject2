@@ -1,3 +1,3 @@
-/// @description Insert description here
+/// @description Timer
 // You can write your code in this editor
 timer = 60;

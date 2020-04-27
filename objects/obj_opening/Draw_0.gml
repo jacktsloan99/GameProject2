@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Text
 // You can write your code in this editor
 var alpha =($FF000084 >> 24);
 draw_set_alpha(alpha / $ff);

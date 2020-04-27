@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Sound / Destroy room
 // You can write your code in this editor
 if(keyboard_check_pressed(vk_enter))
 {

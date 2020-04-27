@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Shader Work
 // You can write your code in this editor
 //Shaders
  draw_self();

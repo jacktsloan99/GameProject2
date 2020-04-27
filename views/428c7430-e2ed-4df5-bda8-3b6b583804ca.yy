@@ -9,7 +9,6 @@
         "fdaeb5e1-caf7-4e9a-acc7-fb900d015913",
         "c9896efc-3833-4799-80b6-0f1f41537718",
         "42c9f0ab-8897-47f6-8342-2f191c51984a",
-        "acf23d65-a264-486c-8baa-8bcb5e0a97e5",
         "a0d23f89-5785-4173-bd3c-2edf85ad76c0",
         "e23a44e7-cf67-4b1b-ad34-43c2fd11be96",
         "97980209-dde5-41e9-806d-046178525be5",
@@ -21,7 +20,9 @@
         "44801365-309f-4dc9-9b39-ef3f8fea2091",
         "53e0fc6e-3d22-4d29-bd7d-e942fb99b477",
         "97d18a23-8fd3-4b11-82f6-eed5cdba2096",
-        "1bd75f88-8571-49da-9cf5-2f8408d96b74"
+        "1bd75f88-8571-49da-9cf5-2f8408d96b74",
+        "747dd59c-2041-4085-928e-07a8fbd95ff0",
+        "178e7158-0f90-4e4c-a325-be197d32d9e6"
     ],
     "filterType": "GMObject",
     "folderName": "Room Objects",

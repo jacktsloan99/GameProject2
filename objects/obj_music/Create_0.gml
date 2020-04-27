@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Change background sound
 // You can write your code in this editor
 if room == roomLevel1{
 	audio_play_sound(snd_Level1,0,true);

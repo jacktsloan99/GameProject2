@@ -1,6 +1,6 @@
-/// @description Insert description here
+/// @description AI Work
 // You can write your code in this editor
-
+// Referenced https://www.youtube.com/watch?v=DG1L2Fbrhlg
 // if distance from the enemy to the player is less then 450, orginal was 200 = 
 // stop the pathing and go for the player avoding boxes
 if instance_exists(obj_Player) {
